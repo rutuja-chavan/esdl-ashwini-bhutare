@@ -5,3 +5,7 @@ int main()
   cout<<"HELLO.....!!!";
   return 0;
 }
+int add()
+{
+  c=a+b;
+}
